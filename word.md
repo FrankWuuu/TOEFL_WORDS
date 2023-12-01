@@ -23,3 +23,13 @@ slope 斜坡
 slop 溢出
 
 cement n.水泥 v. 粘结
+
+pore 毛孔  
+porous 多孔的
+
+`plug` n.插头; v. 堵塞；供给；宣传
+
+percolate 渗透
+
+`either…or…`  
+This is because the gaps among the original grains are often not totally plugged with cementing chemicals; also, parts of the original grains may become dissolved by percolating groundwater, `either` while consolidation is taking place `or` at any time afterwards. 
