@@ -1,4 +1,4 @@
-***crystal*** /ˈkrɪstl/ 晶体  
+<big>***crystal***</big> /ˈkrɪstl/ 晶体  
 crystallize V.
 
 grain n. 粮食，颗粒  
