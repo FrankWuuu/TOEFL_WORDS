@@ -33,10 +33,10 @@ porosity 疏松 孔隙度
 ***`plug`*** n.插头; v. 堵塞；供给；宣传
 
 percolate 渗透  
-permeate 渗透
+permeate 渗透  
 saturate 使湿透，饱和，浸透
 
-***`either…or…`***
+***`either…or…`***  
 This is because the gaps among the original grains are often not totally plugged with cementing chemicals; also, parts of the original grains may become dissolved by percolating groundwater, `either` while consolidation is taking place `or` at any time afterwards.
 
 bubble 气泡
