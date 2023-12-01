@@ -1,6 +1,6 @@
-***`crystal`*** /ˈkrɪstl/ 晶体  
-crystallize V.  
-crystalline adj.
+> ***`crystal`*** /ˈkrɪstl/ 晶体  
+>> crystallize V.  
+>> crystalline adj.
 
 grain n. 粮食，颗粒  
 pebble 卵石，鹅卵石  
