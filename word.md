@@ -1,5 +1,5 @@
 <u>***crystal***</u> /ˈkrɪstl/ 晶体  
-crystallize V.
+<u>crystallize</u> V.
 
 grain n. 粮食，颗粒  
 pebble 卵石，鹅卵石  
