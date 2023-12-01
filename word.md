@@ -1,30 +1,13 @@
-<style>
-    p {
-        line-height: 3.5;
-    }
-</style>
-
-crystallize V.
+crystallize V.  
 crystal /ˈkrɪstl/ 晶体
 
-grain n. 粮食，颗粒
-
+grain n. 粮食，颗粒  
 pebble 卵石，鹅卵石
 
 gravel 砾石，沙砾
-
 glacier n.冰川
 glacial adj.冰川的
 
 consolidate v. (使)巩固;(使)结成一体，合并;使加强
 
 spread v. 传播，扩展
-
-demodemo sddee demo demo
-dffdfd dfdfdfd dff fun fine oK
-<p>adc</p>
-<p>dfdfdfd</p>
-<p>dfdfdfd</p>
-<p>dfdfdfddfdfdfddfdfdfd</p>
-<p>dfdfdfdfdf</p>
-<p>fggfgfgfg</p>
