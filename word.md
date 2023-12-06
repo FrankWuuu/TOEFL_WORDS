@@ -44,3 +44,9 @@ bubble 气泡
 cling 缠着；坚持
 
 drain 排水，耗尽
+
+metropolis 大都市
+
+religious 宗教的  
+religion 宗教  
+region 区域 地区
