@@ -50,3 +50,30 @@ metropolis 大都市
 religious 宗教的  
 religion 宗教  
 region 区域 地区
+
+tremendous 巨大的，精彩的，可怕的
+
+geographic 地理的  
+geography 地理
+
+pinpoint 准确指出
+
+shrine 圣地
+
+genius 天才  
+genuine 真正的
+ingenious 巧妙的，机敏的
+
+rival 竞争对手
+
+sake 目的
+
+fame 名声，声誉
+
+astronomy  天文学  
+astronaut 宇航员  
+asteroid 小行星
+
+
+meteorology 气象学
+
