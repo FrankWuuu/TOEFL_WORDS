@@ -74,6 +74,14 @@ astronomy  天文学
 astronaut 宇航员  
 asteroid 小行星
 
-
 meteorology 气象学
 
+cruise 巡航，乘船
+
+circumstances 环境
+
+keen 渴望的，激烈的
+
+put aside 存起来，搁置
+
+fine 好的，健康的；n. 罚款
