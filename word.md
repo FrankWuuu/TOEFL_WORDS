@@ -85,3 +85,34 @@ keen 渴望的，激烈的
 put aside 存起来，搁置
 
 fine 好的，健康的；n. 罚款
+
+proportion 比例
+
+outweigh 胜过，超过  
+far outweigh 远远超过
+
+To what extent do you agree or disagree？ 你在多大程度上同意或不同意
+
+It depends on to what extent cars can bring convenience
+
+overwhelm 压倒，压垮  
+It was so beautiful and at that time totally overwhelmed me
+
+assess 评估
+
+eligible 有资格的
+
+overdue 过期的，早应完成的
+
+western  
+eastern
+northern
+southern
+
+reluctant 不情愿的
+
+short-sighted 目光短浅的
+
+delight 高兴  
+delighted 高兴的
+
